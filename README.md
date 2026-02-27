@@ -71,7 +71,17 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Dikirimkan dalam bentuk attachment dengan format .pdf bentuk laporan seperti template berikut ini.</p>
 
-<h3><a href="https://docs.google.com/document/d/17EwpGksKAiaKBgLu6zKR_RNZT5vykKdZ/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true"> >>TEMPLATE LAPORAN PRAKTIKUM<< </a></h3>
+<table border="1" align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <h2>
+        <a href="https://docs.google.com/document/d/17EwpGksKAiaKBgLu6zKR_RNZT5vykKdZ/edit?usp=sharing&ouid=114215355724116733257&rtpof=true&sd=true">
+          TEMPLATE LAPORAN PRAKTIKUM
+        </a>
+      </h2>
+    </td>
+  </tr>
+</table>
 
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
 <p>Dengan mengambil contoh sebuah papan Arduino tipe USB, bagian-bagiannya dapat dijelaskan sebagai berikut.</p>
