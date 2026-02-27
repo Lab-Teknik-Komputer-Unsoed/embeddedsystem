@@ -65,7 +65,7 @@ Dalam modul ini berisi kegiatan berkesinambungan tentang penggunaan arduino uno 
 
 <p>Praktikum disusun berdasarkan pendekatan pemrograman mulai dari Bare-Metal Programming sampai dengan Real-Time Operating System (RTOS)</p>
 
-<h2>🗂️Laporan Praktikum</h2>
+<h2>📚Laporan Praktikum</h2>
 
 
 <h2>⚙️ Bagian-bagian Pada Arduino</h2>
